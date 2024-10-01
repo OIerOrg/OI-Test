@@ -183,7 +183,7 @@
 
 ## 贡献与反馈
 
-欢迎提交 [Issue](https://github.com/zjx-kimi/OI-Test/issues) 或 [Pull Request](https://github.com/zjx-kimi/OI-Test/pulls) 以改进本工具。您的反馈和贡献将帮助我们不断优化和完善 `test.sh`。
+欢迎提交 [Issue](https://github.com/OIerKimi/OI-Test/issues) 或 [Pull Request](https://github.com/OIerKimi/OI-Test/pulls) 以改进本工具。您的反馈和贡献将帮助我们不断优化和完善 `test.sh`。
 
 ## 许可证
 
@@ -195,7 +195,7 @@
 
 # 联系方式
 
-如有任何问题或建议，请通过 [GitHub Issues](https://github.com/zjx-kimi/OI-Test/issues) 与我们联系。
+如有任何问题或建议，请通过 [GitHub Issues](https://github.com/OIerKimi/OI-Test/issues) 与我们联系。
 
 # 免责声明
 
